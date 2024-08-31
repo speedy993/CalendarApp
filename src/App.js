@@ -74,7 +74,7 @@ export default function App() {
         const startDate = new Date(rawStartDate);
         const endDate = new Date(rawEndDate);
   
-        console.log('Raw startDate:', rawStartDate);
+        console.log('Raw startDate: nee ', rawStartDate);
         console.log('Raw endDate:', rawEndDate);
         console.log('Converted startDate:', startDate);
         console.log('Converted endDate:', endDate);
